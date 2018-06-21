@@ -1,0 +1,11 @@
+D:\App1\App1\bin\iPhoneSimulator\Debug\App1.exe
+D:\App1\App1\bin\iPhoneSimulator\Debug\App1.pdb
+D:\App1\App1\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\App1\App1\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\App1\App1\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\App1\App1\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\App1\App1\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\App1\App1\obj\iPhoneSimulator\Debug\optimized\
+D:\App1\App1\obj\iPhoneSimulator\Debug\App1.csproj.CoreCompileInputs.cache
+D:\App1\App1\obj\iPhoneSimulator\Debug\App1.exe
+D:\App1\App1\obj\iPhoneSimulator\Debug\App1.pdb
